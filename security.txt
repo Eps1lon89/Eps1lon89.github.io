@@ -3,5 +3,5 @@ layout: none
 permalink: .well-known/security.txt
 ---
 Contact: https://eps1lon.online
-Expires: 2025-12-31T22:59:00.000Z
+Expires: 2026-12-31T22:59:00.000Z
 Canonical: https://eps1lon.online/.well-known/security.txt
